@@ -1,0 +1,3 @@
+E:\workspace\vite-plugin\src\components\Unused.vue
+E:\workspace\vite-plugin\src\unused.js
+E:\workspace\vite-plugin\src\Unused.vue
